@@ -1,7 +1,7 @@
 # @fdlml_
 from operator import lt
 from turtle import bgcolor, color, down, exitonclick, fd, forward, goto, rt, shape, speed
-from turter import *
+from turtle import *
 
 bgcolor("black")
 shape('turtle')
